@@ -1,7 +1,7 @@
 <meta name="google-site-verification" content="NayGsR7Zg41vkqA8BiGtt8gqpwKlhWDuKPZUJUZivOw" />
 
 # 💫 About Me:
-🔭 I’m currently working on <b>ReactJs</b> <br>👯 I’m looking to collaborate on ReactJs<br>🌱 I’m currently learning Javascript<br>💬 Ask me about Javascript 
+🔭 I’m currently working on <b>ReactJs</b> <br>👯 I’m looking to collaborate on ReactJs<br>💬 Ask me about Javascript 
 
 
 ## 🌐 Socials:
